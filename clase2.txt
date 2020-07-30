@@ -1,3 +1,5 @@
 Cambio para primera confirmacion resumida
 
 modificacion para mostrar confirmacion resumida -m -a
+
+ya se eliminar el cambio con el git checkout -- "nombre_Archivo"
