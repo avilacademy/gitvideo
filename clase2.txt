@@ -1,1 +1,3 @@
 Cambio para primera confirmacion resumida
+
+modificacion para mostrar confirmacion resumida -m -a
