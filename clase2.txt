@@ -7,3 +7,5 @@ ya se eliminar el cambio con el git checkout -- "nombre_Archivo"
 modificando una vez mas
 
 mirando las diferencias
+
+viendo en gitk el cambio
