@@ -9,3 +9,5 @@ modificando una vez mas
 mirando las diferencias
 
 viendo en gitk el cambio
+
+cambio capitulo 7 desde otra carpeta
